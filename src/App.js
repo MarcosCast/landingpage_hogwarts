@@ -1,23 +1,34 @@
 import logo from './logo.svg';
 import './App.css';
 
+
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+
+
+      <nav id='MainNav' role={"menubar"} className="barra">
+        <div className='mob-menu' >
+          <a href="http://www.hogwartslegacy.com/pt-br" role="menuitem" aria-label="Home Page" class="logo">
+            <img src={logo} className="App-logo" alt="logo"/>
+          </a>
+        </div>        
+
+
+      </nav>
+      <div className="Main">
+           
+           <div className="menu">
+                  <div className="logo">
+                    <h2>Hogwarts Legacy</h2>
+               
+
+                  </div>
+
+            
+           </div>
+
+      </div>
     </div>
   );
 }
