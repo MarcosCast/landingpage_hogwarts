@@ -6,11 +6,12 @@ import Barra from './components/nav';
 
 function App() {
   return (
+    
     <div className="App">
       <Barra />
-      <Barra />
-
-      
+          
+          
+            
 
       <div className="main">
         <div className='center'>           

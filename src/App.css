@@ -2,87 +2,35 @@
   box-sizing: border-box;
   padding: 0;
   margin: 0;
-}
-
-.center {
-  max-width: 960px;
-  margin: 0 auto;
-  padding: 0 2%;
-  display: flex;
-}
-
-
-/*
-.App {
-  text-align: center;
-}*/
-
-.App-logo {
-  height: 40px;
-  pointer-events: none;
-  display: flex;
-  align-items: center;
-  background-size: cover;
+  text-decoration: none;
 }
 
 .barra {
-   /*background-image: url('https://cdn-hogwartslegacy.warnerbrosgames.com/static/mobile-nav-bg.jpg');*/
-  background-color: grey;
-  background-position: 0 100%;
-  background-size: cover;
-  padding: 10px;
-  opacity: 70%;
-  z-index: -1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px;
 }
 
-.logo h2{
-  color: black;
-  
+.nav-logo {
+  height: 72px;
 }
+
+.barra-menu {
+  display: flex;
+  gap: 32px;
+}
+
+.barra-menu-item {
+  font-family: 'Sarala', sans-serif;
+  color: darkblue;
+  font-weight: 400;
+  font-size: 18px
+}
+
 
 .trailer-video {
   width: 100%;
   height: 100%;
 }
-/*
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}*/
-/*
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}*/
-
-.menu {
-  width: 100%;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-}
-
-.main {
-  padding: 40px 0;
-  width: 100%;
-}
-/*
-.App-link {
-  color: #61dafb;
-}
-*//*
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}*/
