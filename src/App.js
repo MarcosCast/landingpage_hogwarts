@@ -9,6 +9,8 @@ function App() {
     <div className="App">
       <Barra />
 
+      
+
       <div className="main">
         <div className='center'>           
            <div className="menu">
@@ -18,6 +20,9 @@ function App() {
             </video>            
                   <div className="logo">
                     <h2>Hogwarts Legacy</h2>
+                    <p>
+                      Bem vindos ao hogwarts Legacy
+                    </p>
                     
                
 

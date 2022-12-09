@@ -26,15 +26,18 @@
 }
 
 .barra {
- /* background-image: url('https://cdn-hogwartslegacy.warnerbrosgames.com/static/mobile-nav-bg.jpg');*/
+   /*background-image: url('https://cdn-hogwartslegacy.warnerbrosgames.com/static/mobile-nav-bg.jpg');*/
+  background-color: grey;
   background-position: 0 100%;
   background-size: cover;
   padding: 10px;
-  opacity: 50%;
+  opacity: 70%;
+  z-index: -1;
 }
 
 .logo h2{
   color: black;
+  
 }
 
 .trailer-video {
