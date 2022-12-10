@@ -8,6 +8,7 @@ import Rodape from './components/footer';
 function App() {
   return (
     <div className="App">
+      
       <Barra />         
       <div className="main">
 
