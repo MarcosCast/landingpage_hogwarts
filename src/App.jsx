@@ -20,7 +20,7 @@ function App() {
                   <div className="logo">
                     <h2>Hogwarts Legacy</h2>
                     <p>
-                      Bem vindos ao hogwarts Legacy
+                      Bem vindos ao hogwarts Legacy, a sua a entura RPGistica 
                     </p>
                   </div>
           </div>

@@ -8,11 +8,11 @@ function Barra() {
           </a>
       <nav /*id='MainNav' role={"menubar"}*/ className="barra-menu">
           <ul id='menu'>
-           <a className="barra-menu-item"/*href="#L384" role="menuitem" aria-label="Home Page"*/> 
+           <a className="barra-menu-item"href="#L384" /*role="menuitem" aria-label="Home Page"*/> 
            Section 1 </a>
-           <a className="barra-menu-item"/*href="#details" role="menuitem" aria-label="Home Page"*/> 
+           <a className="barra-menu-item" href="#details" /*role="menuitem" aria-label="Home Page"*/> 
            Section 2 </a>
-           <a className="barra-menu-item"/*href="#FAQ" role="menuitem" aria-label="Home Page"*/> 
+           <a className="barra-menu-item" href="#FAQ"/* role="menuitem" aria-label="Home Page"*/> 
            Section 3 </a>
          </ul>  
       </nav>
