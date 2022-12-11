@@ -3,16 +3,16 @@ import Rodape from '../components/footer';
 
 
 
-function Compra() {
+function V2() {
     return(
         <div className="App">      
         <Barra />   
          <main>  
-           <p>Compra</p>
+           <p>V2</p>
            </main>
        <Rodape />
      </div>
     )
 }
 
-export default Compra;
+export default V2;

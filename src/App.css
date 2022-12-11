@@ -15,7 +15,7 @@ body {
 /*Nav*/
 .barra {
   /*background-image: url('https://cdn-hogwartslegacy.warnerbrosgames.com/static/mobile-nav-bg.jpg');*/
-  background: linear-gradient(69deg, #887bda 23%, #191970 80%);
+  background: linear-gradient(69deg, #87CEFA	23%, #2F4F4F 80%);
   display: flex;
   flex-direction: row;
   align-items: center;
