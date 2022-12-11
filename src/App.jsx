@@ -1,9 +1,10 @@
-//import logo from './logo.svg';
+
+import { BrowserRouter as Router, Switch, Route, Link} from 'react-router-dom';
+import React from 'react';
 import './App.css';
-//import hero from './hero.mp4';
 import Barra from './components/nav';
 import Rodape from './components/footer';
-import ps5 from './images/ps5.png';
+import PS5 from './images/PS5.svg';
 
 
 function App() {
@@ -11,20 +12,21 @@ function App() {
     <div className="App">
       
       <Barra />         
-      <div className="main">
+      <main>
 
         <div className='center'>           
             <video autoPlay= "autoplay" muted="muted" loop="loop" 
              playsInline src='https://cdn-hogwartslegacy.warnerbrosgames.com/home/hero.mp4?c=b'
              class="trailer-video">
-            </video>            
-         <section class="center-cabe">
+            </video>       
+            <br/>     
+         <section class="center-prime">
           <div class="center-prime-texto">
            <h1 class="center-prime-texto-titulo">Hogwarts Legacy</h1>
-           <h2 class="center-prime-texto-subtitulo">Imersa nesse mundo de aventura RPG em Hogwarts!</h2>
-           <button /*href="Tela de compra(a ser feita)"*/ class="center-prime-texto-botao">Compre Agora</button>
+           <h2 class="center-prime-texto-subtitulo">Aproveite a imersão nesse mundo de aventura RPG em Hogwarts!</h2>
+            <button class="center-prime-texto-botao" /*onClick={Compra}*/>Compre Agora</button>
           </div>
-           <img class="center-prime-texto-imagem"src={ps5} alt="Imagem do Game HL-PS5" />
+          <img class="center-prime-imagem" src={PS5} alt="Imagem do Game em PS5" />
          </section>
 
          <section class="center-corpo">
@@ -34,7 +36,7 @@ function App() {
             na sua casa favorita.
           </p>
           <p class="center-corpo-paragrafo">Participe das aulas
-           <strong> e aprenda magias </strong> 
+           <strong> e aprenda magias</strong> 
             , incluindo as artes das trevas
           </p>
           <p class="center-corpo-paragrafo">Seja  
@@ -43,8 +45,13 @@ function App() {
           </p>
          </section>
         </div>
-          <Rodape />
-      </div>
+          <Switch>
+            <Route></Route>
+            <Route></Route>
+            <Route></Route>
+          </Switch>
+      </main>
+      <Rodape />
     </div>
   );
 }
