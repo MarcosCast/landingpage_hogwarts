@@ -3,9 +3,7 @@ import Rodape from '../components/footer';
 
 import Fire from '../images/Fire.svg';
 
-
-
-function V2() {
+function Midia() {
     return(
         <div className="App">      
         <Barra />   
@@ -92,22 +90,8 @@ function V2() {
                       <span class="carousel-control-next-icon" aria-hidden="true"></span>
                       <span class="visually-hidden">Next</span>
                     </button>
-                  </div>
-
-
-
-
-
-
-                
-                            
-                  
+                  </div>   
                 </div>
-
-                
-                              
-          
-             
             </div>
            </main>
        <Rodape />
@@ -115,4 +99,4 @@ function V2() {
     )
 }
 
-export default V2;
+export default Midia;

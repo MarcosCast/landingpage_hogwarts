@@ -3,7 +3,7 @@ import Rodape from '../components/footer';
 
 
 
-function V1() {
+function Sobre() {
     return(
     <div className="App">      
        <Barra />   
@@ -15,4 +15,4 @@ function V1() {
     )
 }
 
-export default V1;
+export default Sobre;
