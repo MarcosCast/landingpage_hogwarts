@@ -139,9 +139,10 @@ body {
 /*Carrossel*/
 
 .center-midia {
+  background: linear-gradient(69deg, #2F4F4F	23%, rgb(147, 177, 194) 80%);
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-around;
   flex-direction: column;
   margin-bottom: 48px;
   border-top: 0.4px solid #FFF2E7;
@@ -156,14 +157,12 @@ body {
 
 .carousel-inner{
   margin: 0% auto;
-  padding-left: 50px;
-  padding-right: 50px;
 }
 
 .carousel-item {
   margin: 20px auto;
-  padding-left: 50px;
-  padding-right: 50px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 
@@ -174,7 +173,22 @@ body {
   color: #ECD6C4;  
 }
 
+/*
+.center-midia-video {
+  max-width: 70%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  padding-left: 50px;
+  padding-right: 50px;
+}
 
+.center-midia-item {
+  margin: 20px auto;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+*/
 /*Footer*/
 .rodape {
     width: 100%;
