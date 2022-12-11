@@ -7,9 +7,10 @@
   text-decoration: none;
 }
 
+/*Nav*/
 .barra {
   /*background-image: url('https://cdn-hogwartslegacy.warnerbrosgames.com/static/mobile-nav-bg.jpg');*/
-  background-color: #191970;
+  background: linear-gradient(69deg, #887bda 23%, #191970 80%);
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -38,12 +39,21 @@
   font-size: 18px;
 }
 
+/*Main*/
+
+body {
+  font-size: 100%;
+  background: linear-gradient(69deg, #5F9EA0	23%, #87CEFA 80%);
+}
+
 .trailer-video {
   width: 100%;
   height: 100%;
 }
 
 
+
+/*Footer*/
 .rodape {
     width: 100%;
     padding: 8px 28px;

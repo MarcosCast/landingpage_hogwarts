@@ -22,7 +22,7 @@ function App() {
           <div class="center-prime-texto">
            <h1 class="center-prime-texto-titulo">Hogwarts Legacy</h1>
            <h2 class="center-prime-texto-subtitulo">Imersa nesse mundo de aventura RPG em Hogwarts!</h2>
-           <button /*href=""*/ class="center-prime-texto-botao">Compre Agora</button>
+           <button /*href="Tela de compra(a ser feita)"*/ class="center-prime-texto-botao">Compre Agora</button>
           </div>
            <img class="center-prime-texto-imagem"src={ps5} alt="Imagem do Game HL-PS5" />
          </section>
@@ -30,15 +30,15 @@ function App() {
          <section class="center-corpo">
           <h3 class="center-corpo-titulo">Hogwarts 1800</h3>
           <p class="center-corpo-paragrafo">Venha para Hogwarts 
-           <strong>se torne um BRUXO </strong> 
+           <strong> se torne um BRUXO </strong> 
             na sua casa favorita.
           </p>
           <p class="center-corpo-paragrafo">Participe das aulas
-           <strong>e aprenda magias </strong> 
+           <strong> e aprenda magias </strong> 
             , incluindo as artes das trevas
           </p>
           <p class="center-corpo-paragrafo">Seja  
-           <strong>o protagonista </strong>
+           <strong> o protagonista </strong>
             da sua própria história
           </p>
          </section>
