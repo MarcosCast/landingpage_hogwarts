@@ -135,6 +135,46 @@ body {
   color: #ECD6C4;
 }
 
+/*Carrossel*/
+
+.center-midia {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-bottom: 48px;
+  border-top: 0.4px solid #FFF2E7;
+}
+
+.center-midia-texto {
+  gap: 24px;
+  margin-top: 48px;
+  margin-bottom: 48px;
+}
+
+
+
+.carousel-inner{
+  margin:  auto;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.carousel-item {
+  margin: 20px auto;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+
+.carousel-caption {
+  font-family: 'Sarala', sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+  color: #ECD6C4;  
+}
+
+
 /*Footer*/
 .rodape {
     width: 100%;
