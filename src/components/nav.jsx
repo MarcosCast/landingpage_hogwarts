@@ -1,21 +1,20 @@
+import { Link } from 'react-router-dom';
 import logo from '../logo.svg';
+//import { Link } from 'react-router-dom';
 
 function Barra() {
     return(
       <header id="id-barra" className="barra">
           <a href="index.html" /*role="menuitem" aria-label="Home Page" */>
-            <img src={logo} className="nav-logo" alt="Logo Hogwarts Legacy"/>
+            <Link to="/"><img src={logo} className="nav-logo" alt="Logo Hogwarts Legacy"/></Link>
           </a>
 
       <nav id='MainNav' /*data-toggle="collapse" data-target=".nav-collapse"*/ className="barra-menu">
           <ul id='menu'>
-           <a className="barra-menu-item" href="#123" role="menuitem" aria-label="Home Page"> 
-           Area 1 </a>
-           <a className="barra-menu-item" href="#details" role="menuitem" aria-label="Home Page"> 
-           Area 2 </a>
-           <a className="barra-menu-item" href="#FAQ" role="menuitem" aria-label="Home Page"> 
-           Area 3 </a>
-         </ul>  
+           <a className="barra-menu-item" href='Sobre' ><Link to="/sobre"> Sobre </Link></a>
+           <a className="barra-menu-item" href='Midia' ><Link to="/midia"> Mídia </Link></a>
+           <a className="barra-menu-item" href='Comunidade' ><Link to="/comunidade"> Comunidade </Link></a>
+         </ul>    
       </nav>
         
       </header>
