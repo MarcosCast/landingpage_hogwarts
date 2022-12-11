@@ -3,7 +3,7 @@ import './App.css';
 //import hero from './hero.mp4';
 import Barra from './components/nav';
 import Rodape from './components/footer';
-import ps5_hl from '../src/images/ps5_hl';
+import ps5 from './ps5.svg';
 
 
 function App() {
@@ -22,7 +22,7 @@ function App() {
           <div class="center-prime-texto">
            <h1 class="center-prime-texto-titulo">Hogwarts Legacy</h1>
            <h2 class="center-prime-texto-subtitulo">Imersa nesse mundo de aventura RPG em Hogwarts!</h2>
-           <button /*href=""*/ class={ps5_hl}>Compre Agora</button>
+           <button /*href=""*/ class={ps5}>Compre Agora</button>
           </div>
            <img class="center-prime-texto-imagem"src="ballebot.svg" alt="Imagem do Game HL-PS5" />
          </section>
