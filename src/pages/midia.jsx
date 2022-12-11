@@ -12,8 +12,7 @@ function V2() {
          <main>  
           <div className='center-midia'>
             <div className="center-midia-texto">
-              <h3>Mídia</h3>
-               <p></p>
+              <h1>Mídia</h1><br/>
                </div>
 
                <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false">
@@ -26,22 +25,22 @@ function V2() {
                     <div class="carousel-item active">
                       <img src={Fire} class="d-block w-100" alt="..."/>
                       <div class="carousel-caption d-none d-md-block">
-                        <h5>First slide label</h5>
-                        <p>Some representative placeholder content for the first slide.</p>
+                        <h5>Primeiro Exemplo</h5>
+                        <p>Inserir texto representando o slide.</p>
                       </div>
                     </div>
                     <div class="carousel-item">
                       <img src="https://cdn-hogwartslegacy.warnerbrosgames.com/media/screen-01.jpg" class="d-block w-100" alt="..."/>
                       <div class="carousel-caption d-none d-md-block">
-                        <h5>Second slide label</h5>
-                        <p>Some representative placeholder content for the second slide.</p>
+                        <h5>Segundo Exemplo</h5>
+                        <p>Inserir texto representando o slide.</p>
                       </div>
                     </div>
                     <div class="carousel-item">
                       <img src="https://cdn-hogwartslegacy.warnerbrosgames.com/media/screen-02.jpg" class="d-block w-100" alt="..."/>
                       <div class="carousel-caption d-none d-md-block">
-                        <h5>Third slide label</h5>
-                        <p>Some representative placeholder content for the third slide.</p>
+                        <h5>Terceiro Exemplo</h5>
+                        <p>Inserir texto representando o slide.</p>
                       </div>
                     </div>
                   </div>
@@ -54,6 +53,8 @@ function V2() {
                     <span class="visually-hidden">Next</span>
                   </button>
                 </div>
+
+                
                               
           
              
