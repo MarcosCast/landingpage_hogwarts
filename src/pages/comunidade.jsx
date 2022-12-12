@@ -35,7 +35,7 @@ function Comunidade() {
                         <img src={Twitter} class="rede-img"/>
                         <p>Não esqueça de nos seguir</p>
                     </a>
-                    <a href="https://www.instagram.com/devparadev/" class="box" id="anchors">
+                    <a href="https://www.instagram.com/HogwartsLegacy/" class="box" id="anchors">
                         <img src={Instagram} class="rede-img"/>
                         <p>Nos acompanhe no Instagram</p>
                     </a>
