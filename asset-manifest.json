@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/landingpage_hogwarts/static/css/main.a5b623c0.css",
+    "main.js": "/landingpage_hogwarts/static/js/main.7ef4bf25.js",
+    "static/js/787.0a756cba.chunk.js": "/landingpage_hogwarts/static/js/787.0a756cba.chunk.js",
+    "static/media/Fire.svg": "/landingpage_hogwarts/static/media/Fire.f1360e6f27e5b58de0f09012e21c8f41.svg",
+    "static/media/PS5.svg": "/landingpage_hogwarts/static/media/PS5.a7f7f2ed0f25b0f106b0e68501a8f7c7.svg",
+    "static/media/hero-logo.webp": "/landingpage_hogwarts/static/media/hero-logo.9eedc6c1dc36b5cf3228.webp",
+    "static/media/instagram.png": "/landingpage_hogwarts/static/media/instagram.773ec00ba415249cf4a9.png",
+    "index.html": "/landingpage_hogwarts/index.html",
+    "main.a5b623c0.css.map": "/landingpage_hogwarts/static/css/main.a5b623c0.css.map",
+    "main.7ef4bf25.js.map": "/landingpage_hogwarts/static/js/main.7ef4bf25.js.map",
+    "787.0a756cba.chunk.js.map": "/landingpage_hogwarts/static/js/787.0a756cba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5b623c0.css",
+    "static/js/main.7ef4bf25.js"
+  ]
+}
