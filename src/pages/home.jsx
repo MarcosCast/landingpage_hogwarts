@@ -19,14 +19,14 @@ function Home() {
           <div class="center-prime-texto">
            <h1 class="center-prime-texto-titulo">Hogwarts Legacy</h1>
            <h2 class="center-prime-texto-subtitulo">Aproveite a imersão nesse mundo de aventura RPG em Hogwarts!</h2>
-           <button class="center-prime-texto-botao" type='button'>
-            <Link to="/compra">Compre Agora</Link></button>
+           <a href='https://www.hogwartslegacy.com/pt-br/purchase'><button class="center-prime-texto-botao" type='button'>
+            Compre Agora</button></a>
           </div>
           <img class="center-prime-imagem" src={PS5} alt="Imagem do Game em PS5" />
          </section>
 
          <section class="center-corpo">
-          <h3 class="center-corpo-titulo">Hogwarts 1800</h3>
+          <h3 class="center-corpo-titulo">Hogwarts Século XIX</h3>
           <p class="center-corpo-paragrafo">Venha para Hogwarts 
            <strong> se torne um BRUXO </strong> 
             na sua casa favorita.

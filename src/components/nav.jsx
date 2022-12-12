@@ -1,11 +1,12 @@
 import { Link } from 'react-router-dom';
-import logo from '../logo.svg';
+//import logo from '../logo.svg';
+import Hero from '../hero-logo.webp';
 
 function Barra() {
     return(
       <header id="id-barra" className="barra">
           <a href="index.html" /*role="menuitem" aria-label="Home Page" */>
-            <Link to="/"><img src={logo} className="nav-logo" alt="Logo Hogwarts Legacy"/></Link>
+            <Link to="/"><img src={Hero} className="nav-logo" alt="Logo Hogwarts Legacy"/></Link>
           </a>
 
       <nav id='MainNav' /*data-toggle="collapse" data-target=".nav-collapse"*/ className="barra-menu">
