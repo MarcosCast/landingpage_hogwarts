@@ -1,3 +1,116 @@
+# Página fake de Hogwarts Legacy
+
+A intenção era fazer uma landing page de um jogo que em breve será lançado
+
+A página foi feita pensando nas multiplataformas para que seja o mais responsivo possível
+
+![image](https://user-images.githubusercontent.com/118136902/206946829-5b8a61c0-380a-4a45-ac62-8ac6f96cc81b.png)
+
+![image](https://user-images.githubusercontent.com/118136902/206946892-b7c9c5b9-29a9-4687-8cb4-33fd139a24ee.png)
+
+![image](https://user-images.githubusercontent.com/118136902/206946942-70a77e9e-4031-4bda-a098-11e9cb58da6b.png)
+
+![image](https://user-images.githubusercontent.com/118136902/206947031-0ad83cc8-a45b-4cbd-98f5-36dc95c62f27.png)
+
+![image](https://user-images.githubusercontent.com/118136902/206947218-cf2f33aa-bf56-4da2-bddd-12c579a5b3ad.png)
+
+![image](https://user-images.githubusercontent.com/118136902/206948373-70e72f29-0f97-4aac-85d1-0d6178ca8a05.png)
+
+#Dificuldades
+
+Houve inúmeras dificuldades e uma delas foi o tempo para terminar e algumas funcionalidades que não pude terminar como o Toggle Menu e uma page de forms, mas o maior foi em fazer o deploy para o GitHub que não funcionou 
+
+#Aprendizados
+Aprendi não só a utilizar o React, mas tbm o React Router Dom, o BootStrap para a criação de um carrossel e pude desenvolver melhor minhas capacidade em alterar o layout para ficar mais responsivo
+
+
+# Apresentação do Projeto
+
+É uma página baseada na page do jogo Hogwarts Legacy
+
+#### 🚀 Deploy
+Houve um erro, busccando solução!
+
+
+## 👨‍💻 Área do Desenvolvedor
+
+Configurando seu ambiente de desenvolvimento.
+
+### 🧬 Clone
+
+Para iniciar clone o repositório, você pode optar pelas seguintes formas.
+
+HTTPS:
+```
+https://github.com/MarcosCast/landingpage_hogwarts
+```
+GiHub CLI:
+```
+gh repo clone MarcosCast/landingpage_hogwarts
+```
+
+### 🔧 Instalação
+
+Após realizar o clone, com o projeto aberto, instale o pacote de dependências npm pelo terminal executando o comando:
+
+```
+npm install
+```
+
+Tenha ciência que precisa do Node instalado
+
+
+## 🛠️ Tecnologias utilizadas no desenvolvimento
+
+* React - Framework JavaScript
+* BootStrap - Framework Front-End
+* npm - Dependência
+
+
+#### 📌 Versões
+
+🚧 Em desenvolvimento...🚧
+
+
+## 🙋 Desenvolvedor
+
+![Badge](https://img.shields.io/badge/Desenvolvedor-HederAlves-%237159c1?style=for-the-badge&logo=ghost)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
