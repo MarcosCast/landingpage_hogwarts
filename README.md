@@ -23,6 +23,8 @@ Houve inúmeras dificuldades e uma delas foi o tempo para terminar e algumas fun
 # Aprendizados
 Aprendi não só a utilizar o React, mas tbm o React Router Dom, o BootStrap para a criação de um carrossel e pude desenvolver melhor minhas capacidade em alterar o layout para ficar mais responsivo
 
+# Apresentação Vídeo
+Apresentação em vídeo: https://drive.google.com/drive/folders/18sNtbcGvXw4KMFqceU2JFZ2jlwvZxlk-?usp=sharing
 
 # Apresentação do Projeto
 
@@ -74,7 +76,7 @@ Tenha ciência que precisa do Node instalado
 
 ## 🙋 Desenvolvedor
 
-![Badge](https://img.shields.io/badge/Desenvolvedor-HederAlves-%237159c1?style=for-the-badge&logo=ghost)
+![Badge](https://img.shields.io/badge/Desenvolvedor-MarcosCast-%237159c1?style=for-the-badge&logo=ghost)
 
 
 
