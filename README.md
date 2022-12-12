@@ -16,11 +16,11 @@ A página foi feita pensando nas multiplataformas para que seja o mais responsiv
 
 ![image](https://user-images.githubusercontent.com/118136902/206948373-70e72f29-0f97-4aac-85d1-0d6178ca8a05.png)
 
-#Dificuldades
+# Dificuldades
 
 Houve inúmeras dificuldades e uma delas foi o tempo para terminar e algumas funcionalidades que não pude terminar como o Toggle Menu e uma page de forms, mas o maior foi em fazer o deploy para o GitHub que não funcionou 
 
-#Aprendizados
+# Aprendizados
 Aprendi não só a utilizar o React, mas tbm o React Router Dom, o BootStrap para a criação de um carrossel e pude desenvolver melhor minhas capacidade em alterar o layout para ficar mais responsivo
 
 
