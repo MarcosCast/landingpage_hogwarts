@@ -1,4 +1,3 @@
-import { Link } from 'react-router-dom';
 import PS5 from '../images/PS5.svg';
 
 import Barra from '../components/nav';
