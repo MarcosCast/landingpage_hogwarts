@@ -31,7 +31,7 @@ Apresentação em vídeo: https://drive.google.com/drive/folders/18sNtbcGvXw4KMF
 É uma página baseada na page do jogo Hogwarts Legacy
 
 #### 🚀 Deploy
-Houve um erro, busccando solução!
+Erro solucionado, segue link: https://hogwartsgit.vercel.app/
 
 
 ## 👨‍💻 Área do Desenvolvedor
