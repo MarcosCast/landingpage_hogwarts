@@ -37,7 +37,7 @@ Erro solucionado, segue link: https://hogwartsgit.vercel.app/
 
 ## 🛠️ Tecnologias utilizadas no desenvolvimento
 
-* React - Framework JavaScript
+* React - Biblioteca JavaScript
 * BootStrap - Framework Front-End
 * npm - Dependência
 
