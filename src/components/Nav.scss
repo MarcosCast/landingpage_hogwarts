@@ -1,0 +1,31 @@
+/*Nav*/
+.barra {
+    /*background-image: url('https://cdn-hogwartslegacy.warnerbrosgames.com/static/mobile-nav-bg.jpg');*/
+    background: linear-gradient(69deg, #87CEFA	23%, #2F4F4F 80%);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px;
+    margin: 0 auto;
+  }
+  /*
+  #id-barra {
+    opacity: 50%;
+  }*/
+  
+  .nav-logo {
+    height: 50px;
+  }
+  
+  .barra-menu {
+    display: flex;
+    gap: 30px;
+  }
+  
+  .barra-menu-item {
+    color: whitesmoke;
+    font-family: 'Merienda', cursive;
+    font-weight: 800;
+    font-size: 18px;
+  }

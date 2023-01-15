@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
 //import logo from '../logo.svg';
 import Hero from '../hero-logo.webp';
-import './Footer.scss';
+import './Nav.scss';
 
 function Barra() {
     return(
