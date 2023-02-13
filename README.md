@@ -10,13 +10,13 @@ A página foi feita pensando nas multiplataformas para que seja o mais responsiv
 
 ![image](https://user-images.githubusercontent.com/118136902/206946892-b7c9c5b9-29a9-4687-8cb4-33fd139a24ee.png)
 
+![image](https://user-images.githubusercontent.com/118136902/206947218-cf2f33aa-bf56-4da2-bddd-12c579a5b3ad.png)
+
 ------------------
 
 ![image](https://user-images.githubusercontent.com/118136902/206947031-0ad83cc8-a45b-4cbd-98f5-36dc95c62f27.png)
 
 ![image](https://user-images.githubusercontent.com/118136902/206946942-70a77e9e-4031-4bda-a098-11e9cb58da6b.png)
-
-![image](https://user-images.githubusercontent.com/118136902/206947218-cf2f33aa-bf56-4da2-bddd-12c579a5b3ad.png)
 
 ![image](https://user-images.githubusercontent.com/118136902/206948373-70e72f29-0f97-4aac-85d1-0d6178ca8a05.png)
 
