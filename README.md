@@ -6,9 +6,7 @@ A intenção era fazer uma landing page de um jogo que em breve será lançado e
 
 A página foi feita pensando nas multiplataformas para que seja o mais responsivo possível
 
-![image](https://user-images.githubusercontent.com/118136902/206946829-5b8a61c0-380a-4a45-ac62-8ac6f96cc81b.png)
-
-![image](https://user-images.githubusercontent.com/118136902/206946892-b7c9c5b9-29a9-4687-8cb4-33fd139a24ee.png)
+![image](https://user-images.githubusercontent.com/118136902/206946829-5b8a61c0-380a-4a45-ac62-8ac6f96cc81b.png) ![image](https://user-images.githubusercontent.com/118136902/206946892-b7c9c5b9-29a9-4687-8cb4-33fd139a24ee.png)
 
 ![image](https://user-images.githubusercontent.com/118136902/206947218-cf2f33aa-bf56-4da2-bddd-12c579a5b3ad.png)
 
