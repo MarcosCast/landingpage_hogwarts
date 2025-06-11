@@ -1,6 +1,5 @@
 import Link from 'next/link'
 import Image from 'next/image'
-import './Nav.scss'
 
 export default function Barra() {
   return (
