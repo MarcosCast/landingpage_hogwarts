@@ -6,16 +6,16 @@ import './Nav.scss';
 function Barra() {
     return(
       <header id="id-barra" className="barra">
-          <a href="index.html" /*role="menuitem" aria-label="Home Page" */>
-            <Link to="/"><img src={Hero} className="nav-logo" alt="Logo Hogwarts Legacy"/></Link>
-          </a>
+          <Link to="/">
+            <img src={Hero} className="nav-logo" alt="Logo Hogwarts Legacy"/>
+          </Link>
 
           <nav id='MainNav' /*data-toggle="collapse" data-target=".nav-collapse"*/ className="barra-menu">
           <ul id='menu'>
-           <a className="barra-menu-item" href='Sobre' ><Link to="/sobre"> Sobre </Link></a>
-           <a className="barra-menu-item" href='Midia' ><Link to="/midia"> Mídia </Link></a>
-           <a className="barra-menu-item" href='Comunidade' ><Link to="/comunidade"> Comunidade </Link></a>
-         </ul>    
+           <Link to="/sobre" className="barra-menu-item"> Sobre </Link>
+           <Link to="/midia" className="barra-menu-item"> Mídia </Link>
+           <Link to="/comunidade" className="barra-menu-item"> Comunidade </Link>
+         </ul>
       </nav>
       </header>
     )
