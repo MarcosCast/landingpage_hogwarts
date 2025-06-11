@@ -24,19 +24,19 @@ function Comunidade() {
                 <div class="center-corpo-comu">
                     <p class="center-prime-texto-titulo">Redes Sociais</p>
                     <a href="https://discord.com/invite/HogwartsLegacy" class="box" id="anchors">
-                        <img src={Discord} class="rede-img"/>
+                        <img src={Discord} class="rede-img" alt="Discord"/>
                         <p>Entre na nossa comunidade no Discord</p>
                     </a>
                     <a href="https://www.youtube.com/HogwartsLegacy" class="box" id="anchors">
-                        <img src={Youtube} class="rede-img"/>
+                        <img src={Youtube} class="rede-img" alt="YouTube"/>
                         <p>Veja todos os vídeos incríveis no YouTube</p>
                     </a>
                     <a href="https://twitter.com/HogwartsLegacy" class="box" id="anchors">
-                        <img src={Twitter} class="rede-img"/>
+                        <img src={Twitter} class="rede-img" alt="Twitter"/>
                         <p>Não esqueça de nos seguir</p>
                     </a>
                     <a href="https://www.instagram.com/HogwartsLegacy/" class="box" id="anchors">
-                        <img src={Instagram} class="rede-img"/>
+                        <img src={Instagram} class="rede-img" alt="Instagram"/>
                         <p>Nos acompanhe no Instagram</p>
                     </a>
                     <p><b>Baixe esses lindos Wallpappers</b></p>
