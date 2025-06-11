@@ -11,30 +11,30 @@ function Home() {
          <div className='center'>           
             <video autoPlay= "autoplay" muted="muted" loop="loop" 
              playsInline src='https://cdn-hogwartslegacy.warnerbrosgames.com/home/hero.mp4?c=b'
-             class="trailer-video">
+             className="trailer-video">
             </video>       
             <br/>     
-         <section class="center-prime">
-          <div class="center-prime-texto">
-           <h1 class="center-prime-texto-titulo">Hogwarts Legacy</h1>
-           <h2 class="center-prime-texto-subtitulo">Aproveite a imersão nesse mundo de aventura RPG em Hogwarts!</h2>
-           <a href='https://www.hogwartslegacy.com/pt-br/purchase'><button class="center-prime-texto-botao" type='button'>
+         <section className="center-prime">
+          <div className="center-prime-texto">
+           <h1 className="center-prime-texto-titulo">Hogwarts Legacy</h1>
+           <h2 className="center-prime-texto-subtitulo">Aproveite a imersão nesse mundo de aventura RPG em Hogwarts!</h2>
+           <a href='https://www.hogwartslegacy.com/pt-br/purchase'><button className="center-prime-texto-botao" type='button'>
             Compre Agora</button></a>
           </div>
-          <img class="center-prime-imagem" src={PS5} alt="Imagem do Game em PS5" />
+          <img className="center-prime-imagem" src={PS5} alt="Imagem do Game em PS5" />
          </section>
 
-         <section class="center-corpo">
-          <h3 class="center-corpo-titulo">Hogwarts Século XIX</h3>
-          <p class="center-corpo-paragrafo">Venha para Hogwarts 
+         <section className="center-corpo">
+          <h3 className="center-corpo-titulo">Hogwarts Século XIX</h3>
+          <p className="center-corpo-paragrafo">Venha para Hogwarts 
            <strong> se torne um BRUXO </strong> 
             na sua casa favorita.
           </p>
-          <p class="center-corpo-paragrafo">Participe das aulas
+          <p className="center-corpo-paragrafo">Participe das aulas
            <strong> e aprenda magias</strong> 
             , incluindo as artes das trevas
           </p>
-          <p class="center-corpo-paragrafo">Seja  
+          <p className="center-corpo-paragrafo">Seja  
            <strong> o protagonista </strong>
             da sua própria história
           </p>
