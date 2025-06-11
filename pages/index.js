@@ -1,0 +1,34 @@
+import Barra from '../components/nav'
+import Rodape from '../components/footer'
+
+export default function Home() {
+  return (
+    <div className="App">
+      <Barra />
+      <main>
+        <div className="center">
+          <video autoPlay muted loop playsInline src="https://cdn-hogwartslegacy.warnerbrosgames.com/home/hero.mp4?c=b" className="trailer-video" />
+          <br />
+          <section className="center-prime">
+            <div className="center-prime-texto">
+              <h1 className="center-prime-texto-titulo">Hogwarts Legacy</h1>
+              <h2 className="center-prime-texto-subtitulo">Aproveite a imersão nesse mundo de aventura RPG em Hogwarts!</h2>
+              <a href="https://www.hogwartslegacy.com/pt-br/purchase">
+                <button className="center-prime-texto-botao" type="button">Compre Agora</button>
+              </a>
+            </div>
+            <img className="center-prime-imagem" src="/images/PS5.svg" alt="Imagem do Game em PS5" />
+          </section>
+
+          <section className="center-corpo">
+            <h3 className="center-corpo-titulo">Hogwarts Século XIX</h3>
+            <p className="center-corpo-paragrafo">Venha para Hogwarts<strong> se torne um BRUXO </strong>na sua casa favorita.</p>
+            <p className="center-corpo-paragrafo">Participe das aulas<strong> e aprenda magias</strong>, incluindo as artes das trevas</p>
+            <p className="center-corpo-paragrafo">Seja<strong> o protagonista </strong>da sua própria história</p>
+          </section>
+        </div>
+      </main>
+      <Rodape />
+    </div>
+  )
+}

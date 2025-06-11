@@ -2,7 +2,7 @@
 
 # Apresentação do Projeto
 
-A intenção era fazer uma landing page de um jogo que em breve será lançado e começar a utilizar o React.js
+A intenção era fazer uma landing page de um jogo que em breve será lançado e começar a utilizar o Next.js
 
 A página foi feita pensando nas multiplataformas para que seja o mais responsivo possível
 
@@ -23,7 +23,7 @@ A página foi feita pensando nas multiplataformas para que seja o mais responsiv
 Houve inúmeras dificuldades e uma delas foi o tempo para terminar e algumas funcionalidades que não pude terminar como o Toggle Menu e uma page de forms, mas o maior foi em fazer o deploy para o GitHub que não funcionou e precisei procurar ajuda de terceiros, consegui com a Vercel.
 
 # Aprendizados
-Aprendi não só a utilizar o React, mas tambem o React Router Dom, o BootStrap para a criação de um carrossel e pude desenvolver melhor minhas capacidades em alterar o layout para ficar mais responsivo
+Aprendi não só a utilizar o Next para a criação de um carrossel e pude desenvolver melhor minhas capacidades em alterar o layout para ficar mais responsivo
 
 # Apresentação Vídeo
 
@@ -37,7 +37,7 @@ Erro solucionado, segue link: https://hogwartsgit.vercel.app/
 
 ## 🛠️ Tecnologias utilizadas no desenvolvimento
 
-* React - Biblioteca JavaScript
+* Next.js - Framework React
 * BootStrap - Framework Front-End
 * npm - Dependência
 
