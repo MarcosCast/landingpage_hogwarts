@@ -1,18 +1,36 @@
-/*Footer*/
 .rodape {
-    width: 100%;
-    padding: 8px 28px;
-    border-top: 0.4px solid #FFF2E7;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    gap: 2.5px;
-    color: #FFF2E7;
+  width: 100%;
+  padding: 24px 20px;
+  border-top: 1px solid rgba(255, 255, 255, 0.22);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  gap: 8px;
+  color: #e9ecf5;
+  background: rgba(10, 12, 24, 0.7);
+  backdrop-filter: blur(12px);
+}
+
+.rodape-copy span {
+  color: #a9b6d8;
 }
 
 .rodape-media {
-  height: 48px;  
-  margin: 0 auto;
+  display: flex;
+  gap: 12px;
+}
+
+.rodape-media img {
+  height: 36px;
+  filter: drop-shadow(0 8px 16px rgba(0, 0, 0, 0.35));
+}
+
+.rodape-media a {
+  transition: transform 0.2s ease;
+}
+
+.rodape-media a:hover {
+  transform: translateY(-2px) scale(1.02);
 }

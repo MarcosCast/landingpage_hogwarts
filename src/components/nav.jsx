@@ -1,24 +1,37 @@
-import { Link } from 'react-router-dom';
-//import logo from '../logo.svg';
+import React from 'react';
+
 import Hero from '../hero-logo.webp';
 import './Nav.scss';
 
 function Barra() {
-    return(
-      <header id="id-barra" className="barra">
-          <a href="index.html" /*role="menuitem" aria-label="Home Page" */>
-            <Link to="/"><img src={Hero} className="nav-logo" alt="Logo Hogwarts Legacy"/></Link>
-          </a>
+  return (
+    <header className="barra">
+      <div className="logo-wrap">
+        <a href="#inicio" aria-label="Início">
+          <img src={Hero} className="nav-logo" alt="Logo Hogwarts Legacy" />
+        </a>
+        <span className="logo-title">Hogwarts Legacy</span>
+      </div>
 
-          <nav id='MainNav' /*data-toggle="collapse" data-target=".nav-collapse"*/ className="barra-menu">
-          <ul id='menu'>
-           <a className="barra-menu-item" href='Sobre' ><Link to="/sobre"> Sobre </Link></a>
-           <a className="barra-menu-item" href='Midia' ><Link to="/midia"> Mídia </Link></a>
-           <a className="barra-menu-item" href='Comunidade' ><Link to="/comunidade"> Comunidade </Link></a>
-         </ul>    
+      <nav className="barra-menu" aria-label="Navegação principal">
+        <a className="barra-menu-item" href="#experiencia">
+          Experiência
+        </a>
+        <a className="barra-menu-item" href="#historia">
+          Narrativa
+        </a>
+        <a className="barra-menu-item" href="#galeria">
+          Galeria
+        </a>
+        <a className="barra-menu-item" href="#casas">
+          Casas
+        </a>
+        <a className="barra-menu-item" href="#comunidade">
+          Comunidade
+        </a>
       </nav>
-      </header>
-    )
+    </header>
+  );
 }
 
 export default Barra;
